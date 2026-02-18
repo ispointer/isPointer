@@ -7,7 +7,7 @@
 </p>
 
 ## About Me
-i'am a C++ developer focused on system level programming, low-level concepts, and performance oriented development, Strong interest in Android NDK, kernel-level exploration, and structured software architecture.
+I am a c++ developer specialized in system level programming, low-level concepts, and performance oriented development. my work focuses on high efficiency software, Android NDK integration, and kernel level exploration. i prioritize structured architecture and memory safe practices in resource constrained environments.
 
 ## Technical Focus
 C++, System Programming, Android NDK, Kernel Concepts, API Integration, Backend Architecture
@@ -22,4 +22,4 @@ C++, System Programming, Android NDK, Kernel Concepts, API Integration, Backend 
 </p>
 
 ## Contact
-Telegram: [https://t.me/your_channel_link_here](https://t.me/RevDex)
+Telegram --> [RevDex](https://t.me/RevDex)
