@@ -1,5 +1,5 @@
 # Hi there 👋
-
+![Visitor Count](https://count.getloli.com/get/@isPointer?theme=rule34)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=isPointer)
 
 
