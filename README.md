@@ -1,7 +1,7 @@
 # Aantik
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@isPointer?theme=booru-lewd" />
+  <img src="https://count.getloli.com/get/@isPointer?theme=booru-lewd" alt="Moe Counter!" />
   <br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=isPointer&style=flat-square" />
 </p>
