@@ -6,13 +6,13 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=isPointer&style=flat-square" />
 </p>
 
-## About Me
-I am a c++ developer specialized in system level programming, low-level concepts, and performance oriented development. my work focuses on high efficiency software, Android NDK integration, and kernel level exploration. i prioritize structured architecture and memory safe practices in resource constrained environments.
+## about me
+I am a c++ developer specialized in system level programming, low level concepts, and performance oriented development. my work focuses on high efficiency software, android ndk integration, and kernel level exploration. i prioritize structured architecture and memory safe practices in resource constrained environments.
 
-## Technical Focus
+## my focus
 C++, System Programming, Android NDK, Kernel Concepts, API Integration, Backend Architecture
 
-## GitHub Statistics
+## github status
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isPointer&theme=tokyonight" />
   <p align="center">
